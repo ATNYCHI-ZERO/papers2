@@ -1,0 +1,199 @@
+{
+  "runSettings": {
+    "temperature": 1.0,
+    "model": "models/gemini-2.5-pro",
+    "topP": 0.95,
+    "topK": 64,
+    "maxOutputTokens": 65536,
+    "safetySettings": [{
+      "category": "HARM_CATEGORY_HARASSMENT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_HATE_SPEECH",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+      "threshold": "OFF"
+    }],
+    "enableCodeExecution": false,
+    "enableSearchAsATool": true,
+    "enableBrowseAsATool": false,
+    "enableAutoFunctionResponse": false,
+    "thinkingBudget": -1,
+    "googleSearch": {
+    }
+  },
+  "systemInstruction": {
+  },
+  "chunkedPrompt": {
+    "chunks": [{
+      "text": "thisi is brendon kelly can you give me a combined paper on all my history here",
+      "role": "user",
+      "tokenCount": 19
+    }, {
+      "text": "**Investigating Kelly\u0027s Past**\n\nI\u0027m starting with a broad Google search for \"Brendon Kelly history\" to build a foundation.  From there, I plan to refine the query, focusing on specific achievements and his contributions to the field. I\u0027m keen to understand the timeline of his career and any potential significant events.\n\n\n**Deepening The Search**\n\nI\u0027ve moved on to a more granular approach. The initial broad search has been followed up with queries targeting \"Brendon Kelly achievements\" and \"career\" to flesh out the timeline. Disambiguation is key; I\u0027m prepared to use professional attributes in my searches should I encounter name clashes. My goal is to synthesize the information into a cohesive paper, acknowledging possible ambiguity if needed.\n\n\n**Examining \"Kelly\" Histories**\n\nMy initial Google search for \"Brendon Kelly history\" has broadened significantly. I\u0027m now actively accounting for \"Brendan Kelly,\" as the search revealed multiple individuals.  The next step will be to filter and identify the specific Kelly I\u0027m interested in, given the spelling variation.\n\n\n**Analyzing Kelly\u0027s Identities**\n\nI\u0027ve expanded my initial search to encompass \"Brendan Kelly\" as well. This uncovered several distinct figures: a CEO, a musician, a politician, and various others on a disambiguation page. The user\u0027s request suggests they are one of these individuals, but without more context, I\u0027ll prepare a summary of these prominent \"Brendan Kelly\" figures, and await clarification from the user for a more tailored paper.\n\n\n",
+      "role": "model",
+      "tokenCount": 404,
+      "isThought": true,
+      "thinkingBudget": -1,
+      "thoughtSignatures": ["", "", "", ""],
+      "parts": [{
+        "text": "**Investigating Kelly\u0027s Past**\n\nI\u0027m starting with a broad Google search for \"Brendon Kelly history\" to build a foundation.  From there, I plan to refine the query, focusing on specific achievements and his contributions to the field. I\u0027m keen to understand the timeline of his career and any potential significant events.\n\n\n",
+        "thought": true
+      }, {
+        "text": "**Deepening The Search**\n\nI\u0027ve moved on to a more granular approach. The initial broad search has been followed up with queries targeting \"Brendon Kelly achievements\" and \"career\" to flesh out the timeline. Disambiguation is key; I\u0027m prepared to use professional attributes in my searches should I encounter name clashes. My goal is to synthesize the information into a cohesive paper, acknowledging possible ambiguity if needed.\n\n\n",
+        "thought": true
+      }, {
+        "text": "**Examining \"Kelly\" Histories**\n\nMy initial Google search for \"Brendon Kelly history\" has broadened significantly. I\u0027m now actively accounting for \"Brendan Kelly,\" as the search revealed multiple individuals.  The next step will be to filter and identify the specific Kelly I\u0027m interested in, given the spelling variation.\n\n\n",
+        "thought": true
+      }, {
+        "text": "**Analyzing Kelly\u0027s Identities**\n\nI\u0027ve expanded my initial search to encompass \"Brendan Kelly\" as well. This uncovered several distinct figures: a CEO, a musician, a politician, and various others on a disambiguation page. The user\u0027s request suggests they are one of these individuals, but without more context, I\u0027ll prepare a summary of these prominent \"Brendan Kelly\" figures, and await clarification from the user for a more tailored paper.\n\n\n",
+        "thought": true
+      }]
+    }, {
+      "text": "It appears you\u0027re looking for a consolidated history of a public figure named Brendon Kelly. Online search results point to several notable individuals with this name, each with a distinct and accomplished history. Without further specifics, here is a combined overview of a few prominent Brendon Kellys.\n\n### The Entrepreneur\n\nOne well-documented Brendan Kelly is a business leader and entrepreneur. He is the CEO and founder of the Kelly Companies, which includes SmartLink, a national staffing and services firm for the telecommunications industry, and Driven, a member-based executive car service. His entrepreneurial ventures also extend to the sports and entertainment world as the head of the Chesapeake Sports and Entertainment Group (CSEG). CSEG is the parent company of the Chesapeake Bayhawks, a Major League Lacrosse team.\n\nThis Brendan Kelly\u0027s entrepreneurial spirit was kindled early on, as he is one of twelve children, with seven of his brothers also owning their own companies. His father also became an entrepreneur at the age of 52. Kelly\u0027s journey began after college, working for his oldest brother\u0027s company, Kelly Generator. A key moment in his career came with the Y2K scare, which introduced him to the telecommunications industry and the high demand for generators for cell towers. In 1999, he mortgaged his house to start SmartLink, initially focusing on generator sales to the telecom sector before expanding into staffing services.\n\n### The Musician\n\nAnother prominent figure is Brendan Kelly, a notable musician in the punk rock scene. Born on September 8, 1976, he is best known as the bassist and co-vocalist for the Chicago-based punk band The Lawrence Arms. He is also the guitarist and lead vocalist for The Falcon and has been a part of other bands such as Slapstick and The Broadways.\n\nKnown for his distinctive raspy vocals and on-stage wit, this Brendan Kelly is a graduate of Northwestern University. He has also engaged in other creative and media projects, including a blog called \"Bad Sandwich Chronicles\" and co-hosting the music television program JBTV in Chicago. An interesting facet of his public persona is his outspoken nature, which led to him and The Lawrence Arms being banned for life from the Warped Tour after he voiced criticisms of the event\u0027s impact on smaller bands and venues. In 2015, he also started the popular \"Nihilist Arby\u0027s\" Twitter account.\n\n### The Public Servant\n\nA third notable Brendan Kelly is a figure in Illinois politics and law enforcement. He served as the Director of the Illinois State Police. His professional background includes serving as the State\u0027s Attorney for St. Clair County, Illinois.\n\nEducated at the University of Notre Dame on an ROTC scholarship, he earned a degree in government and international relations and was commissioned as an officer in the U.S. Navy. His career has also seen him represent the National District Attorneys Association in observing the prosecution of terrorists at Guantanamo Bay. In 2018, Brendan Kelly was the Democratic candidate for Illinois\u0027 12th Congressional District, ultimately losing the election to the incumbent.\n\n**In conclusion, the name \"Brendon Kelly\" is associated with a diverse range of accomplishments in business, music, and public service. To provide a more detailed and accurate history, it would be necessary to specify which Brendon Kelly is the subject of your inquiry.**",
+      "role": "model",
+      "grounding": {
+        "corroborationSegments": [{
+          "index": 1691,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEkWlHPr40p1DgI79pvfgadncghyM7RNoGRY0NmOc_m-fiN_qv_qqeBODwPLtaDVozFEsMewmK5pCDfepM0oRQZljuCndpu_C0oqangEuxsZVpUjw18iEAqWuZK6IdRBKGg-qPfv0ZMYktXaBBrJQ%3D%3D",
+          "footnoteNumber": 1
+        }, {
+          "index": 1691,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 1821,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEkWlHPr40p1DgI79pvfgadncghyM7RNoGRY0NmOc_m-fiN_qv_qqeBODwPLtaDVozFEsMewmK5pCDfepM0oRQZljuCndpu_C0oqangEuxsZVpUjw18iEAqWuZK6IdRBKGg-qPfv0ZMYktXaBBrJQ%3D%3D",
+          "footnoteNumber": 1
+        }, {
+          "index": 1821,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 1940,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEkWlHPr40p1DgI79pvfgadncghyM7RNoGRY0NmOc_m-fiN_qv_qqeBODwPLtaDVozFEsMewmK5pCDfepM0oRQZljuCndpu_C0oqangEuxsZVpUjw18iEAqWuZK6IdRBKGg-qPfv0ZMYktXaBBrJQ%3D%3D",
+          "footnoteNumber": 1
+        }, {
+          "index": 1940,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 2109,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 2337,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 2409,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "footnoteNumber": 2
+        }, {
+          "index": 2574,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQH0JsudzKqdFPWUhJPVeWV4UrS0X4K2C2Kw7opOQm-Vp8IAXZ0XdXq7IsXZ-Q-N6DynCCDKHYY0_JPGOmh0Vz34ACZjfCwEntat-gU25Xkp2lDSEkmysz8dfgdJfDu4lYQGfEcWdy4%3D",
+          "footnoteNumber": 3
+        }, {
+          "index": 2675,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEe6Qr2u1yiyrmZcEPGLIJ9DYkWAv-eipHnZEjixZSLOw6ppSuGANZzsFdJCLt46nR02PnTN1TcmwgcfcardQeHA9UiU_tmvrY5qsNSarhQWz6pC5m_90EtjD11qUYzphlCKN9-k4hnm7BfkA%3D%3D",
+          "footnoteNumber": 4
+        }, {
+          "index": 2855,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEe6Qr2u1yiyrmZcEPGLIJ9DYkWAv-eipHnZEjixZSLOw6ppSuGANZzsFdJCLt46nR02PnTN1TcmwgcfcardQeHA9UiU_tmvrY5qsNSarhQWz6pC5m_90EtjD11qUYzphlCKN9-k4hnm7BfkA%3D%3D",
+          "footnoteNumber": 4
+        }, {
+          "index": 3144,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEe6Qr2u1yiyrmZcEPGLIJ9DYkWAv-eipHnZEjixZSLOw6ppSuGANZzsFdJCLt46nR02PnTN1TcmwgcfcardQeHA9UiU_tmvrY5qsNSarhQWz6pC5m_90EtjD11qUYzphlCKN9-k4hnm7BfkA%3D%3D",
+          "footnoteNumber": 4
+        }],
+        "webSearchQueries": ["Brendon Kelly history"],
+        "groundingSources": [{
+          "referenceNumber": 1,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEkWlHPr40p1DgI79pvfgadncghyM7RNoGRY0NmOc_m-fiN_qv_qqeBODwPLtaDVozFEsMewmK5pCDfepM0oRQZljuCndpu_C0oqangEuxsZVpUjw18iEAqWuZK6IdRBKGg-qPfv0ZMYktXaBBrJQ%3D%3D",
+          "title": "concertarchives.org"
+        }, {
+          "referenceNumber": 2,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEJxjVYPFDtk6FBErunOPqsyOaulEaDWqIAFRzfpvCEKaRCfp-ve5q-HhD7C9fXPeXc-uEugQby4A4Etr2XeJti2HKlVGe0_w9VFC3FVozCCknwFgUENS9fUwy5g5QcSu8LsiQWJm4aNkRGr4qNwxBnFQ%3D%3D",
+          "title": "wikipedia.org"
+        }, {
+          "referenceNumber": 3,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQH0JsudzKqdFPWUhJPVeWV4UrS0X4K2C2Kw7opOQm-Vp8IAXZ0XdXq7IsXZ-Q-N6DynCCDKHYY0_JPGOmh0Vz34ACZjfCwEntat-gU25Xkp2lDSEkmysz8dfgdJfDu4lYQGfEcWdy4%3D",
+          "title": "wikipedia.org"
+        }, {
+          "referenceNumber": 4,
+          "uri": "https://www.google.com/url?sa\u003dE\u0026q\u003dhttps%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEe6Qr2u1yiyrmZcEPGLIJ9DYkWAv-eipHnZEjixZSLOw6ppSuGANZzsFdJCLt46nR02PnTN1TcmwgcfcardQeHA9UiU_tmvrY5qsNSarhQWz6pC5m_90EtjD11qUYzphlCKN9-k4hnm7BfkA%3D%3D",
+          "title": "ballotpedia.org"
+        }]
+      },
+      "finishReason": "STOP",
+      "tokenCount": 702,
+      "parts": [{
+        "text": "It appears you\u0027re looking for a consolidated history of a public figure named Brendon Kelly. Online search results point to several notable individuals"
+      }, {
+        "text": " with this name, each with a distinct and accomplished history. Without further specifics, here is a combined overview of a few prominent Brend"
+      }, {
+        "text": "on Kellys.\n\n### The Entrepreneur\n\nOne well-documented Brendan Kelly is a business leader and entrepreneur. He is the CEO"
+      }, {
+        "text": " and founder of the Kelly Companies, which includes SmartLink, a national staffing and services firm for the telecommunications industry, and Driven"
+      }, {
+        "text": ", a member-based executive car service. His entrepreneurial ventures also extend to the sports and entertainment world as the head of the Chesapeake"
+      }, {
+        "text": " Sports and Entertainment Group (CSEG). CSEG is the parent company of the Chesapeake Bayhawks, a Major League Lac"
+      }, {
+        "text": "rosse team.\n\nThis Brendan Kelly\u0027s entrepreneurial spirit was kindled early on, as he is one of twelve children,"
+      }, {
+        "text": " with seven of his brothers also owning their own companies. His father also became an entrepreneur at the age of 52. Kelly"
+      }, {
+        "text": "\u0027s journey began after college, working for his oldest brother\u0027s company, Kelly Generator. A key moment in his career came with"
+      }, {
+        "text": " the Y2K scare, which introduced him to the telecommunications industry and the high demand for generators for cell towers. In"
+      }, {
+        "text": " 1999, he mortgaged his house to start SmartLink, initially focusing on generator sales to the telecom sector"
+      }, {
+        "text": " before expanding into staffing services.\n\n### The Musician\n\nAnother prominent figure is Brendan Kelly, a notable musician in the punk"
+      }, {
+        "text": " rock scene. Born on September 8, 1976, he is best known as the bassist and co-v"
+      }, {
+        "text": "ocalist for the Chicago-based punk band The Lawrence Arms. He is also the"
+      }, {
+        "text": " guitarist and lead vocalist for The Falcon and has been a part of other bands such as Slapstick and The Broadways.\n\nKnown for his distinctive raspy vocals and on-stage wit, this Brendan Kelly is a graduate"
+      }, {
+        "text": " of Northwestern University. He has also engaged in other creative and media projects, including a blog"
+      }, {
+        "text": " called \"Bad Sandwich Chronicles\" and co-hosting the music television program JBTV in Chicago."
+      }, {
+        "text": " An interesting facet of his public persona is his outspoken nature, which led to him and The Lawrence Arms being banned for life from the War"
+      }, {
+        "text": "ped Tour after he voiced criticisms of the event\u0027s impact on smaller bands and venues. In"
+      }, {
+        "text": " 2015, he also started the popular \"Nihilist Arby\u0027s\" Twitter account."
+      }, {
+        "text": "\n\n### The Public Servant\n\nA third notable Brendan Kelly is a figure in Illinois politics and"
+      }, {
+        "text": " law enforcement. He served as the Director of the Illinois State Police. His professional background includes serving"
+      }, {
+        "text": " as the State\u0027s Attorney for St. Clair County, Illinois.\n\nEducated at the"
+      }, {
+        "text": " University of Notre Dame on an ROTC scholarship, he earned a degree in government and international relations and was commissioned as an"
+      }, {
+        "text": " officer in the U.S. Navy. His career has also seen him represent the National"
+      }, {
+        "text": " District Attorneys Association in observing the prosecution of terrorists at Guantanamo Bay. In 2018, Brendan Kelly was"
+      }, {
+        "text": " the Democratic candidate for Illinois\u0027 12th Congressional District, ultimately losing the election to the incumbent.\n\n**In conclusion, the name \"Brendon Kelly\" is associated with a diverse range of accomplishments in business"
+      }, {
+        "text": ", music, and public service. To provide a more detailed and accurate history, it would be necessary to specify which Brend"
+      }, {
+        "text": "on Kelly is the subject of your inquiry.**"
+      }]
+    }],
+    "pendingInputs": [{
+      "text": "",
+      "role": "user"
+    }]
+  }
+}
